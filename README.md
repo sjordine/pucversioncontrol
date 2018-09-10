@@ -1,2 +1,2 @@
 # pucversioncontrol
-Workshop sobre Git - Semana Integrada PUCCAMP
+Workshop sobre Git - Semana Integrada do CEATEC - PUCCAMP
