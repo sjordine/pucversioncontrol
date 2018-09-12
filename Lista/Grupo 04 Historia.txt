@@ -8,5 +8,9 @@ A cidade é bonita, com muitas arvores, poucos moradores, varias construções, pos
    O vilão é um mago, com vestimentas longas, muito parecido com um lençol azulado que cobria até os seus pés e um chapéu bem pontudo cheio de estrelas, pois ele era um lunático, andava junto com um cajado e com o seu mais fiel parceiro, uma arara azul.
 >>>>>>> master
 >>>>>>> master
+<<<<<<< HEAD
 
 Filipe
+=======
+Oscar
+>>>>>>> master
