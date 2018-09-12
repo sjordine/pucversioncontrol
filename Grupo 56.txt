@@ -5,5 +5,11 @@ A maior cidade do império. Alzafahz era o maior centro comercial do planeta. Po
 =======
 A maior cidade do império. Alzafahz era o maior centro comercial 
 
+<<<<<<< HEAD
+O heroi é um cara legal. Joga lol com o nick shockwaiver adiciona la pra jogar depois com ele.
+
+Mas o heroi de verdade são nossos pais.
+=======
 O super heroi é um cara legal. Joga lol com o nick shockwaiver adiciona la pra jogar depois com ele.
+>>>>>>> master
 >>>>>>> master
