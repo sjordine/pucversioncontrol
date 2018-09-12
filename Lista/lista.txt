@@ -7,4 +7,9 @@ Thiago Parazzi
 Carlos Eduardo Nogueira
 Gabriela Jorge
 Breno Baldovinotti
+<<<<<<< HEAD
 Filipe Bonfim
+=======
+Felipe Ferreira
+joao henrique
+>>>>>>> master
