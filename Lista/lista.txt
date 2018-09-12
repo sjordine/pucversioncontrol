@@ -7,6 +7,7 @@ Heloisa Medeiros Silva
 Lucas Linarelo
 Thiago Parazzi
 Carlos Eduardo Nogueira
+<<<<<<< HEAD
 Breno Baldovinotti
 Raira Silva
  
@@ -18,14 +19,9 @@ Lucas Linarelo
 Thiago Parazzi
 Carlos Eduardo Nogueira
 Breno Baldovinotti
+=======
+>>>>>>> master
 Breno Baldovinotti
-Raira Silva
-Daniel Nordhausen
-Willian Prandi
-Heloisa Medeiros Silva
-Lucas Linarelo
-Thiago Parazzi
-Carlos Eduardo Nogueira
-Gabriela Jorge
+Breno Baldovinotti
 Felipe Ferreira
 joao henrique
