@@ -1,4 +1,30 @@
-A hero�na
-Gisele � uma garota extremamente inteligente por possuir mem�ria fotogr�fica. Esta superioridade de Gisele a tornou uma pessoa extremamente arrogante e odiada por boa parte dos cidad�os de sua cidade. 
-Apesar disso, ela � muito leal e protetora, mantendo seus poucos amigos por perto para se envolverem em encrencas e problemas com ela. Atualmente, toda a sua forte personalidade est� sendo colocada a prova depois de grandes apuros que passou nas m�os de Odete mas, n�o t�o surpreendemente assim, Gisele est� conseguindo lidar bem com sua nova "habilidade" conquistada.
-Cidade: Nossa hist�ria se passa em uma terra distante, em um pa�s pouco conhecido, chamado Buracon, e a cidade protagonista � a Tavern�polis, uma cidadezinha do interior, com 500 habitantes, praticamente um s�tio. Tavern�polis n�o possui um solo bom para plantio, tudo que os moradores tentam cultivar vira humus, resultando em uma regi�o pantanosa por ser um lugar onde chove muito. Existem diversas criaturas que habitam nessa regi�o, dentre elas temos drag�es que podem ser facilmente domesticados por serem criaturas d�ceis e tamb�m unic�rnios que s�o extremamente agressivos e petrificam pessoas que inalam o g�s que sa� de seu orificio anal. Tavern�polis � uma cidade muito tranquila para se morar. Eu recomendo!
+﻿[A hero�na]
+
+Gisele � uma garota extremamente inteligente por possuir mem�ria fotogr�fica. Esta superioridade de Gisele
+ a tornou uma pessoa extremamente arrogante e odiada por boa parte dos cidad�os de sua cidade. 
+Apesar disso, ela � muito leal e protetora, mantendo seus poucos amigos por perto para se envolverem em 
+encrencas e problemas com ela. Atualmente, toda a sua forte personalidade est� sendo colocada a prova depois de 
+grandes apuros que passou nas m�os de Odete mas, n�o t�o surpreendemente assim, Gisele est� conseguindo lidar bem 
+com sua nova "habilidade" conquistada.
+
+
+[Cidade]
+
+Nossa hist�ria se passa em uma terra distante, em um pa�s pouco conhecido, chamado Buracon, 
+e a cidade protagonista � a Tavern�polis, uma cidadezinha do interior, com 500 habitantes, praticamente 
+um s�tio. Tavern�polis n�o possui um solo bom para plantio, tudo que os moradores tentam cultivar vira humus,
+ resultando em uma regi�o pantanosa por ser um lugar onde chove muito. Existem diversas criaturas que habitam 
+nessa regi�o, dentre elas temos drag�es que podem ser facilmente domesticados por serem criaturas d�ceis e 
+tamb�m unic�rnios que s�o extremamente agressivos e petrificam pessoas que inalam o g�s que sa� de seu orificio
+anal. Tavern�polis � uma cidade muito tranquila para se morar. Eu recomendo!
+
+
+[Vilã]
+
+Odette era uma velha feiticeira rabugenta e atrapalhada. Ela vivia sua vida como uma velha solteirona 
+tranquila e bondosa sugando a juventude de criancinhas. Depois de sequestrar Gisele ainda bebê uma 
+maldição caiu sobre ela lhe dando aspectos anfíbios ao invés de sua aparência jovem e bela. 
+
+Agora ela vive no canto sombrio do pântano, três batidas de asas de fadas a direita da Torre nebulosa.
+Sem sua forma humana e magias poderosas ela busca recobrar sua sua vitalidade e magia, as quais foram 
+presenteada para Gisele que nem sequer sabe que as possui.
