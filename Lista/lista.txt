@@ -1,3 +1,44 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+>>>>>>> master
+Raira Silva
+ 
+Daniel Nordhausen
+
+Willian Prandi
+Heloisa Medeiros Silva
+Lucas Linarelo
+Thiago Parazzi
+Carlos Eduardo Nogueira
+<<<<<<< HEAD
+Breno Baldovinotti
+Raira Silva
+ 
+Daniel Nordhausen
+
+Willian Prandi
+Heloisa Medeiros Silva
+Lucas Linarelo
+Thiago Parazzi
+Carlos Eduardo Nogueira
+Breno Baldovinotti
+=======
+>>>>>>> master
+Breno Baldovinotti
+Breno Baldovinotti
+Felipe Ferreira
+<<<<<<< HEAD
+<<<<<<< HEAD
+Victor Hugo do Nascimento
+=======
+joao henrique
+=======
+joao henrique
+=======
 Raira Silva
  
 Daniel Nordhausen
@@ -9,5 +50,76 @@ Thiago Parazzi
 Carlos Eduardo Nogueira
 Breno Baldovinotti
 Breno Baldovinotti
+<<<<<<< Updated upstream
 Felipe Ferreira
 joao henrique
+=======
+Raira Silva
+<<<<<<< Updated upstream
+Daniel Nordhausen
+=======
+ 
+Daniel Nordhausen
+
+>>>>>>> Stashed changes
+Willian Prandi
+Heloisa Medeiros Silva
+Lucas Linarelo
+Thiago Parazzi
+Carlos Eduardo Nogueira
+<<<<<<< Updated upstream
+Gabriela Jorge
+<<<<<<< Updated upstream
+Felipe Ferreira
+joao henrique
+=======
+Breno Baldovinotti
+=======
+Breno Baldovinotti
+Leonardo Facca
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+>>>>>>> master
+Raira Silva
+ 
+Daniel Nordhausen
+
+Willian Prandi
+Heloisa Medeiros Silva
+Lucas Linarelo
+Thiago Parazzi
+Carlos Eduardo Nogueira
+<<<<<<< HEAD
+Breno Baldovinotti
+Breno Baldovinotti
+Felipe Ferreira
+joao henrique
+=======
+<<<<<<< HEAD
+Breno Baldovinotti
+Raira Silva
+ 
+Daniel Nordhausen
+
+Willian Prandi
+Heloisa Medeiros Silva
+Lucas Linarelo
+Thiago Parazzi
+Carlos Eduardo Nogueira
+Breno Baldovinotti
+=======
+>>>>>>> master
+Breno Baldovinotti
+Breno Baldovinotti
+Felipe Ferreira
+<<<<<<< HEAD
+Victor Hugo do Nascimento
+=======
+joao henrique
+>>>>>>> master
+>>>>>>> master
+>>>>>>> master
+>>>>>>> master
