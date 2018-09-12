@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+	Oscar,o herï¿½i, era o mais forte de todos, tinha longos cabelos loiros e encantava todas as mulheres da cidade.
+   O vilï¿½o ï¿½ um mago, com vestimentas longas, muito parecido com um lenï¿½ol azulado que cobria atï¿½ os seus pï¿½s e um chapï¿½u bem pontudo cheio de estrelas, pois ele era um lunï¿½tico, andava junto com um cajado e com o seu mais fiel parceiro, uma arara azul.
+=======
+<<<<<<< HEAD
+A cidade é bonita, com muitas arvores, poucos moradores, varias construções, possuia varias fazendas ao seu redor.
+=======
+   O vilão é um mago, com vestimentas longas, muito parecido com um lençol azulado que cobria até os seus pés e um chapéu bem pontudo cheio de estrelas, pois ele era um lunático, andava junto com um cajado e com o seu mais fiel parceiro, uma arara azul.
+>>>>>>> master
+>>>>>>> master
+<<<<<<< HEAD
+
+Filipe
+=======
+Oscar
+>>>>>>> master
