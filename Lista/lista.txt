@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 >>>>>>> master
 Raira Silva
@@ -80,6 +82,7 @@ Leonardo Facca
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
 =======
+>>>>>>> master
 Raira Silva
  
 Daniel Nordhausen
@@ -89,6 +92,12 @@ Heloisa Medeiros Silva
 Lucas Linarelo
 Thiago Parazzi
 Carlos Eduardo Nogueira
+<<<<<<< HEAD
+Breno Baldovinotti
+Breno Baldovinotti
+Felipe Ferreira
+joao henrique
+=======
 <<<<<<< HEAD
 Breno Baldovinotti
 Raira Silva
@@ -110,6 +119,7 @@ Felipe Ferreira
 Victor Hugo do Nascimento
 =======
 joao henrique
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
