@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+Em uma cidade cujo nome azeroth, onde suas terras cheias de castelo, onde cercadas por suas montanhas gigantes que usadas como proteção 
+para ataques, e por suas terras ao redor com frutos animais e muitas cabritas
+=======
+	Na cidade de Azeroth, se encontrava um Heroi chamado, Hirata um grande guerreiro samuria ladino,
+com especialização em arco e flecha. O seu pior inimigo é Nasgon, suas caracteristicas são bem distintas,
+ambos nascidos na cidade de Azeroth.
+>>>>>>> Stashed changes
