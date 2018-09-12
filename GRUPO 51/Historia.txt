@@ -2,4 +2,6 @@ CIDADE:
 
 HERÓI:
 
-VILÃO:
+VILÃO: 
+Era uma vez um vilão chamado Viléttore, um mago do mal, odiava todo mundo, maltratava as crianças e chutava idosos. 
+ 
