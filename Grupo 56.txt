@@ -1,6 +1,27 @@
 Cidade de Alzafahz, Europa Oriental
 
 <<<<<<< HEAD
+A maior cidade do império. Alzafahz era o maior centro comercial 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O vilão é chamado de Bigus Dikus, chefe da maior mafia criminosa da cidade conhecida como DingDong.Seu objetivo é ficar rico vendendo os orgãos dos cidadões.
+=======
+<<<<<<< HEAD
 A maior cidade do império. Alzafahz era o maior centro comercial do planeta. Povos de todas as regiões visitavam Alzafahz para comprar escravos, drogas, iguarias e prostitutas. O Rei Lils governava a próspera cidade que crescera baseada em outros povos com o máximo de zelo e opressão. A cidade tinha o tamanho de 80 campos de futebol, e o esporte mais praticado era o Golf Moderno com tacos feitos de cana-de-açúcar.
 =======
 A maior cidade do império. Alzafahz era o maior centro comercial 
@@ -11,5 +32,6 @@ O heroi é um cara legal. Joga lol com o nick shockwaiver adiciona la pra jogar 
 Mas o heroi de verdade são nossos pais.
 =======
 O super heroi é um cara legal. Joga lol com o nick shockwaiver adiciona la pra jogar depois com ele.
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
