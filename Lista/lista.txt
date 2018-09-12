@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+>>>>>>> master
 Raira Silva
  
 Daniel Nordhausen
@@ -26,6 +29,12 @@ Breno Baldovinotti
 Breno Baldovinotti
 Breno Baldovinotti
 Felipe Ferreira
+<<<<<<< HEAD
+<<<<<<< HEAD
+Victor Hugo do Nascimento
+=======
+joao henrique
+=======
 joao henrique
 =======
 Raira Silva
@@ -101,5 +110,6 @@ Felipe Ferreira
 Victor Hugo do Nascimento
 =======
 joao henrique
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
