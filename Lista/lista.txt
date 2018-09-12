@@ -5,4 +5,10 @@ Daniel Nordhausen
 Willian Prandi
 Heloisa Medeiros Silva
 Lucas Linarelo
+<<<<<<< HEAD
 Oscar Egami
+=======
+Thiago Parazzi
+Carlos Eduardo Nogueira
+Breno Baldovinotti
+>>>>>>> master
