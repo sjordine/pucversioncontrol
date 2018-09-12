@@ -24,4 +24,8 @@ Breno Baldovinotti
 Breno Baldovinotti
 Breno Baldovinotti
 Felipe Ferreira
+<<<<<<< HEAD
+Victor Hugo do Nascimento
+=======
 joao henrique
+>>>>>>> master

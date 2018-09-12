@@ -4,3 +4,12 @@ Cidade:
 A história se passa em uma pacata cidade do leste europeu, onde cerca de 5000 habitantes lutam contra um inverno longo e rigoroso.
 A economia da cidade se baseia quase que integralmente na agricultura, o clima local propicia o cultivo de macadâmias. 
 Parte da população se dedica ao cultivo das macadâmias e outra ao combate aos falcões, principais ladrões de macadâmias.
+
+
+Herói:
+
+Nessa nossa história temos um herói conhecido por suas magias inimaginaveis,
+ele é um bruxo com diversos poderes entre eles iludir os vilões e trazer a alegria
+para a vila onde ele reside. O nome desse herói é Ronaldinho Gaucho e seus poderes mágicos
+são comparaveis aos de grandes bruxos da humanidade como Merlin e Dumbledore.
+
