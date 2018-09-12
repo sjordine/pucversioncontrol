@@ -1,4 +1,15 @@
 Raira Silva
+ 
+Daniel Nordhausen
+
+Willian Prandi
+Heloisa Medeiros Silva
+Lucas Linarelo
+Thiago Parazzi
+Carlos Eduardo Nogueira
+Breno Baldovinotti
+Breno Baldovinotti
+Raira Silva
 Daniel Nordhausen
 Willian Prandi
 Heloisa Medeiros Silva
@@ -6,6 +17,9 @@ Lucas Linarelo
 Thiago Parazzi
 Carlos Eduardo Nogueira
 Gabriela Jorge
-Breno Baldovinotti
 Felipe Ferreira
+<<<<<<< HEAD
 Victor Hugo do Nascimento
+=======
+joao henrique
+>>>>>>> master
